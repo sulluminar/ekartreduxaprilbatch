@@ -52,7 +52,7 @@ function Wishlist() {
                         <div style={{height:'100vh'}} className='d-flex align-items-center flex-column'>
                             <img src="https://www.pngitem.com/pimgs/m/480-4803503_your-cart-is-currently-empty-empty-cart-icon.png"
                             height='300px' alt="" />
-                            <h3 className='text-danger fw-bolder'>Your Cart Is Empty</h3>
+                            <h3 className='text-danger fw-bolder'>Your Wishlist Is Empty</h3>
                         </div>
                 }
 
